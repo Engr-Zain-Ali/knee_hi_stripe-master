@@ -1,0 +1,59 @@
+name: ecommmeranceeeee
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  image_picker:
+  firebase_auth:
+  firebase_core:
+  animated_snack_bar:
+  font_awesome_flutter:
+  flutter_slidable:
+  hive_flutter:
+  google_fonts:
+  staggered_grid_view_flutter:
+  flutter_staggered_grid_view:
+  provider:
+  community_material_icon:
+  page_transition:
+  imageview360:
+  flutter_rating_bar:
+  sliding_sheet:
+  collection:
+  google_sign_in:
+  flutter_facebook_auth:
+  flutter_stripe:
+  http:
+  get:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.1
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
+    - assets/json/
+

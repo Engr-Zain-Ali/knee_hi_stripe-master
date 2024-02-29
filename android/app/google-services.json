@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "395935098496",
+    "project_id": "ecommerance-app-c8deb",
+    "storage_bucket": "ecommerance-app-c8deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395935098496:android:897c95bf71860c16aae865",
+        "android_client_info": {
+          "package_name": "com.example.kneehi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395935098496-7l658d2src24ahigkne6bmcri7mhtdss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kneehi",
+            "certificate_hash": "022cf1109e253fd1969506656f1c9a9725bc6519"
+          }
+        },
+        {
+          "client_id": "395935098496-4si48fnm9m5c9mq8eutebtsr49ke40ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_s5aS_d-yVrMf000ei9uuWPghEXa0WFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395935098496-4si48fnm9m5c9mq8eutebtsr49ke40ir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "395935098496-j47cf7ovv61nqhn1ivfdlmt8r3s3nooe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kneehi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
